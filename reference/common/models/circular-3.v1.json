@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "id": {
-      "type": "string"
+      "$ref": "http://stoplight-local.com:8080/api/v1/projects/bear-sisters/bear-bros/nodes/reference/common/models/circular-1.v1.yaml"
     }
   }
 }
